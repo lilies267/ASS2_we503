@@ -1,0 +1,32 @@
+{
+  "product": [
+    {
+      "name": "Product B update",
+      "job": "cong ti me t ",
+      "id": 1
+    },
+    {
+      "name": "Product c update",
+      "job": "cong ti t ",
+      "id": 2
+    },
+    {
+      "name": "Product B ",
+      "job": "lynt 123 ",
+      "id": 3
+    },
+    {
+      "name": "Product B ",
+      "job": "lynt 26072003 ",
+      "id": 4
+    },
+    {
+      "name": "SamSung 21utra",
+      "img": "2-1638638953-200-width660height439.jpg",
+      "quanlity": "5",
+      "price": "280000",
+      "desc": " uygu",
+      "id": 5
+    }
+  ]
+}
